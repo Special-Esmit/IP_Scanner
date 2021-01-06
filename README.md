@@ -1,9 +1,8 @@
 # IP_Scanner
 * Scan Ip With Shodan
+* Tested On Arch Linux
 
 _______________________________________________________
-
-* Tested On Arch Linux
 
 Libraries: sys,shodan
 
