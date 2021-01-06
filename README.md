@@ -3,7 +3,7 @@
 
 _______________________________________________________
 
-*Tested On Arch Linux
+* Tested On Arch Linux
 
 Libraries: sys,shodan
 Install_Libraries: 'pip install shodan'
