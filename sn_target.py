@@ -3,10 +3,10 @@ import sys,os,shodan
 
 p = sys.platform.lower()
 
-if 'linux' in p:
-	os.system("clear")
-else:
+if 'win' in p:
 	os.system("cls")
+else:
+	os.system("clear")
 	
 
 print("<$> Creted By Special_Esmit")
