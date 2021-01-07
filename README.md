@@ -12,7 +12,7 @@ _______________________________________________________
 
 Runing:
 
-Step 1 : Open sn_target.py and replace your token to token variable
+Step 1 : Open sn_target.py and replace your token to token variable or run script and give api_key !
 
 Step 2 : 'python3 sn_target.py <target_ip>'
 
