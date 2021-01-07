@@ -4,7 +4,7 @@
 
 _______________________________________________________
 
-Libraries: sys,shodan
+Libraries: os,sys,shodan
 
 Install_Libraries: 'pip install shodan'
 
