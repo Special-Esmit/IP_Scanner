@@ -1,8 +1,19 @@
-import sys,shodan
+import sys,os,shodan
+
+
+p = sys.platform.lower()
+
+if 'linux' in p:
+	os.system("clear")
+else:
+	os.system("cls")
+	
 
 print("<$> Creted By Special_Esmit")
+print("<$> Sponsor: Zero Security Team | https://t.me/zero_security_tm")
+print("<^> Just For Fun :)\n")
 
-api_key = "your api_key"
+api_key = str(input("<^> Enter Your API_KEY: "))
 api = shodan.Shodan(api_key)
 
 if len(sys.argv) < 2:
